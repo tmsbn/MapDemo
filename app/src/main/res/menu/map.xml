@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.gistec.layerdemo.app.MapActivity">
+
+    <item
+        android:id="@+id/refreshItem"
+        android:icon="@drawable/icon_dark_refresh"
+        android:showAsAction="always"
+        android:title="Refresh" />
+
+</menu>

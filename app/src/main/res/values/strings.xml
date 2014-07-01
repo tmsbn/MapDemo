@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Map Demo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="basemapURL_txt">Basemap URL</string>
+    <string name="featureLayer_txt">MapService URL</string>
+    <string name="save_txt">save</string>
+    <string name="pleaseFillAll_msg">Please fill all the values</string>
+    <string name="failedToLoadMap_txt">Failed to load map</string>
+    <string name="FailedToLoadFeatureLayer">Failed to load Feature Layer</string>
+    <string name="loading_txt">Loading...</string>
+    <string name="username_txt">Username</string>
+    <string name="password_txt">Password</string>
+
+</resources>
